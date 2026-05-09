@@ -1,0 +1,8 @@
+Company: DataNova Analytics
+Role: Junior Data Scientist
+
+We are hiring a Junior Data Scientist with 1-3 years of experience or strong project experience. The candidate should be comfortable with Python, SQL, pandas, numpy, scikit-learn, machine learning, statistics, NLP, data visualization, and dashboard tools such as Tableau or Streamlit.
+
+Responsibilities include building predictive models, analyzing business datasets, preparing reports, communicating insights, and collaborating with product and engineering teams.
+
+Preferred qualifications include experience with Git, clean code practices, model evaluation, feature engineering, and cloud deployment basics.
